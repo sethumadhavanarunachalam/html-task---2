@@ -1,0 +1,86 @@
+body{
+    padding: 20px 300px;
+    
+}
+.leftside{
+   height: 100%;
+    width: 30%;
+    
+}
+.address{
+    padding-left: 10px;
+    font-size: 70%;
+    
+}
+.fa{
+    color: lightcoral;
+}
+.listofcourses{
+    margin-left: 80px;
+    font-weight: 800;
+    
+}
+.edulist{
+    
+    margin-left: 80px;
+    font-weight: 800;
+
+}
+.listint{
+    
+    margin-left: 80px;
+    font-weight: 800;
+}
+.interest{
+    color: lightcoral;
+    border-bottom: 3px solid lightcoral;
+}
+.education{
+    color: lightcoral;
+    border-bottom: 3px solid lightcoral;
+}
+.courses{
+    color: lightcoral;
+    border-bottom: 3px solid lightcoral;
+}
+img{
+    padding: 20px 30px;
+    height: 190px;
+    width: 200px;
+    border-radius: 30%;
+    
+}
+.techski>h5{
+    color: lightcoral;
+    border-bottom: 2px solid lightcoral;
+}
+
+.container{
+    display: flex;
+ border: 1px solid black;
+    height: 100%;
+}
+.username{
+    background-color: lightcoral;
+    font-size: 30px;
+    
+}
+.rightside{
+    margin-left: 5px;
+    
+}
+.position{
+    
+    border-bottom: 2px solid white;
+    
+    
+}
+.leftbg{
+    color: white;
+    width: 100%;
+    padding:10px 0px 10px 10px;
+    
+    height: 40%;
+    background-color: lightcoral;
+}
+
